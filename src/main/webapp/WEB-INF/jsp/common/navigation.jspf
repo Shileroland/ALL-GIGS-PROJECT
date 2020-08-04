@@ -1,0 +1,91 @@
+<div class="container-fluid">
+        <div class="row">
+            <!-- SIDE MENU -->
+            <div class="col-12 col-sm-12 col-md-4  col-lg-2" style="padding: 0;">
+                <div class="side-bar full-height">
+                    <div class="logo">
+                    </div>
+                    <div class="side-menu-wrapper">
+                        <ul>
+                            <li>
+                                <div class="icon">
+                                    <img src="/assets/img/Icon-home-fill.svg" alt="" srcset="">
+                                </div>
+                                <div class="description">
+                                    <!-- <a href="#"></a> -->
+                                    <span>Dashboard</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <img src="/assets/img/Icon-briefcase-fill.svg" alt="" srcset="">
+                                </div>
+                                <div class="description">
+                                    <span>Gigs</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <img src="/assets/img/Icon-npm-fill.svg" alt="" srcset="">
+                                </div>
+                                <div class="description">
+                                    <span>Company</span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <img src="/assets/img/Icon-person-fill.svg" alt="" srcset="">
+                                </div>
+                                <div class="description">
+                                    <span>Account</span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- SIDE MENU ENDS -->
+
+            <!-- Main -->
+            <div class="col-12 col-sm-12 col-md-8 col-lg-10 main-body" style="padding: 0;">
+                <!-- Header -->
+                <header class="navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar">
+                    <!-- Search ul -->
+                    <div class="navbar-nav-scroll">
+                        <ul class="navbar-nav bd-navbar-nav flex-row">
+                          <li class="nav-item">
+                            <form class="form-inline my-2 my-lg-0">
+                                <input class="form-control mr-sm-2 header-search" type="search" placeholder="Search" aria-label="Search">
+                              </form>
+                          </li>
+                        </ul>
+                      </div>
+                      <!-- ul links -->
+                      <ul class="navbar-nav ml-md-auto right-nav-item">
+
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <img src="/assets/img/Group 140.svg" alt="" srcset="">
+                            </a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <img src="/assets/img/Icon-email.svg" alt="" srcset="">
+                            </a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <img src="/assets/img/Icon-settings.svg" alt="" srcset="">
+                            </a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link active" href="#">
+                                <img src="/assets/img/Rectangle.png" alt="" srcset="/assets/img/Rectangle2x.png 2x">
+                            </a>
+                          </li>
+                      </ul>
+                </header>
+                <!-- Header end -->
+            </div>
+        </div>
+    </div>
